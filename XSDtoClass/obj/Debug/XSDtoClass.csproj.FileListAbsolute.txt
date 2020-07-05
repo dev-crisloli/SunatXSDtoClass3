@@ -1,0 +1,23 @@
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.exe.config
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.exe
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.pdb
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.csprojAssemblyReference.cache
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.csproj.CoreCompileInputs.cache
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.exe
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.pdb
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\XSDtoClass.exe.config
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\XSDtoClass.exe
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\XSDtoClass.pdb
+E:\Proyecto Facturacion Electronica\XSDtoClass\obj\Debug\XSDtoClass.csprojAssemblyReference.cache
+E:\Proyecto Facturacion Electronica\XSDtoClass\obj\Debug\XSDtoClass.csproj.CoreCompileInputs.cache
+E:\Proyecto Facturacion Electronica\XSDtoClass\obj\Debug\XSDtoClass.exe
+E:\Proyecto Facturacion Electronica\XSDtoClass\obj\Debug\XSDtoClass.pdb
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.AccessControl.dll
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Permissions.dll
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Principal.Windows.dll
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.AccessControl.xml
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Permissions.xml
+E:\Proyecto Facturacion Electronica\XSDtoClass\bin\Debug\System.Security.Principal.Windows.xml
+E:\Proyecto Facturacion Electronica\XSDtoClass\obj\Debug\XSDtoClass.csproj.CopyComplete
